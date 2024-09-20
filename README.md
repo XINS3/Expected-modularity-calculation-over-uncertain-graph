@@ -1,4 +1,4 @@
-# Expected_Modularity_Calculation_in_Probabilistic_Graphs
+# Expected Modularity Calculation over uncertain graphs
 
 This is the official implementation for 'Fast and accurate algorithms to calculate expected modularity in probabilistic networks'.
 
