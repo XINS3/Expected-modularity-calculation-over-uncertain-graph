@@ -22,7 +22,7 @@ To prepare the Python environment for the code in this repo, the users can creat
 Python 3.9.13
 Python 3.8.10
 ```
-Install DFT_cpp modle according to the guidence in [https://github.com/XINS3/DFT_cpp](https://pages.github.com/)(https://github.com/XINS3/DFT_cpp)).
+Install DFT_cpp modle according to the guidence in [https://github.com/XINS3/DFT_cpp](https://github.com/XINS3/DFT_cpp).
 
 ## Implementation experiments using code running as follows
 
