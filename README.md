@@ -140,8 +140,23 @@ Synthetic graph generation utilities are available in `generators/`. The experim
 
 ## Citation
 
-If you use this implementation or the experimental results in your research, please cite:
+If you use this repository or the implemented methods in your research,
+please cite the following paper:
 
-**Fast and Accurate Algorithms to Calculate Expected Modularity in Probabilistic Networks.**
+Shen, X., Magnani, M., Rohner, C. & Skerman, F. (2025).
+**On the accurate computation of expected modularity in probabilistic networks.**
+*Scientific Reports*, 15, 19062.
+https://doi.org/10.1038/s41598-025-99114-5
 
-*Full bibliographic details and a BibTeX entry can be added here.*
+```bibtex
+@article{shen2025accurate,
+  title={On the accurate computation of expected modularity in probabilistic networks},
+  author={Shen, Xin and Magnani, Matteo and Rohner, Christian and Skerman, Fiona},
+  journal={Scientific Reports},
+  volume={15},
+  pages={19062},
+  year={2025},
+  publisher={Nature Publishing Group},
+  doi={10.1038/s41598-025-99114-5}
+}
+```
